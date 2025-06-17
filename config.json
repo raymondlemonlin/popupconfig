@@ -4,7 +4,7 @@
   "first_question": "你是否想要瀏覽體育生的青春肉體？",
   "second_question": "籃球隊鮮肉 分享解鎖看更多?",
   "window_titles": ["實況直播", "實況直播"],
-  "broadcast_ip": "192.168.128.255",
+  "broadcast_ip": "192.168.5.255",
   "trigger_port": 5005,
   "trigger_message": "TRIGGER",
   "target_url": "https://www.youtube.com/watch?v=pS57UX6s-xw"
