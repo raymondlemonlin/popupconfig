@@ -1,10 +1,10 @@
 {
-  "first_image": "https://raw.githack.com/raymondlemonlin/popupconfig/main/image1.png",
-  "second_image": "https://raw.githack.com/raymondlemonlin/popupconfig/main/image2.png",
+  "first_image": "https://raw.githack.com/raymondlemonlin/popupconfig/main/image3.png",
+  "second_image": "https://raw.githack.com/raymondlemonlin/popupconfig/main/image4.png",
   "first_question": "你是否想要瀏覽體育生的青春肉體？",
   "second_question": "籃球隊鮮肉 分享解鎖看更多?",
   "window_titles": ["實況直播", "實況直播"],
-  "broadcast_ip": "192.168.0.255",
+  "broadcast_ip": "172.16.2.255",
   "trigger_port": 5005,
   "trigger_message": "TRIGGER",
   "target_url": "https://www.youtube.com/watch?v=pS57UX6s-xw"
