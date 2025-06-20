@@ -4,7 +4,7 @@
   "first_question": "你是否想要瀏覽體育生的青春肉體？",
   "second_question": "籃球隊鮮肉 分享解鎖看更多?",
   "window_titles": ["實況直播", "實況直播"],
-  "broadcast_ips": ["192.168.128.8", "192.168.128.33", "192.168.128.2", "192.168.128.2", "192.168.128.2"],
+  "broadcast_ips": ["192.168.5.152", "192.168.5.113", "192.168.128.2", "192.168.128.2", "192.168.128.2"],
   "trigger_port": 5005,
   "trigger_message": "TRIGGER",
   "target_url": "https://drive.google.com/file/d/1eKbWrRehrNno_5Uql2oJxaYHsSgRUQqr/view?usp=sharing"
