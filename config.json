@@ -43,5 +43,5 @@
     "這是額外彈窗訊息 10"
   ],
   "final_mp3": "https://raw.githack.com/raymondlemonlin/popupconfig/main/alarm.mp3",
-  "lock_duration_sec": 10
+  "lock_duration_sec": 20
 }
