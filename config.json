@@ -4,7 +4,7 @@
   "first_question": "你是否想要瀏覽體育生的青春肉體？",
   "second_question": "籃球隊鮮肉 分享解鎖看更多?",
   "window_titles": ["實況直播", "實況直播"],
-  "broadcast_ips": ["192.168.128.33", "192.168.5.113", "192.168.5.168", "192.168.5.220", "192.168.128.2"],
+  "broadcast_ips": ["192.168.5.210", "192.168.5.126", "192.168.5.209", "192.168.5.244", "192.168.5.242"],
   "trigger_port": 5005,
   "trigger_message": "TRIGGER",
   "target_url": "https://livecamerachenren.blogspot.com/",
