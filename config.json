@@ -43,5 +43,8 @@
     "你已將影片分享至「高中生不能說的秘密」社團"
   ],
   "final_mp3": "https://raw.githack.com/raymondlemonlin/popupconfig/main/alert.mp3",
-  "lock_duration_sec": 30
+  "lock_duration_sec": 30,
+  "state": "activate",
+  "sender_id": "MYCOMPUTER123"
+
 }
