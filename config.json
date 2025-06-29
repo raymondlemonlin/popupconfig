@@ -1,8 +1,8 @@
 {
-  "first_image": "https://raw.githack.com/raymondlemonlin/popupconfig/main/image3.png",
-  "second_image": "https://raw.githack.com/raymondlemonlin/popupconfig/main/image4.png",
-  "first_question": "你是否想要瀏覽體育生的青春肉體？",
-  "second_question": "籃球隊鮮肉 分享解鎖看更多?",
+  "first_image": "https://raw.githack.com/raymondlemonlin/popupconfig/main/image5.png",
+  "second_image": "https://raw.githack.com/raymondlemonlin/popupconfig/main/image6.png",
+  "first_question": "",
+  "second_question": "",
   "window_titles": ["實況直播", "實況直播"],
   "broadcast_ips": ["192.168.5.210", "192.168.5.126", "192.168.5.209", "192.168.5.244", "192.168.5.242"],
   "trigger_port": 5005,
